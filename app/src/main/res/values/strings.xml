@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">crudapplication</string>
+    <string-array name="department_array">
+        <item>--Pilih--</item>
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Ekonomi</item>
+        <item>Manajemen</item>
+    </string-array>
+
+    <string name="ap_name">crudapplication</string>
+    <string-array name="agama_array">
+        <item>--Pilih--</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Buddha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
